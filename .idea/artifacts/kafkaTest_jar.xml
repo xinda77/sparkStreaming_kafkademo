@@ -1,0 +1,29 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="kafkaTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/kafkaTest_jar</output-path>
+    <root id="archive" name="kafkaTest.jar">
+      <element id="module-output" name="kafkaTest" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/org/slf4j/slf4j-log4j12/1.7.16/slf4j-log4j12-1.7.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/org/apache/spark/spark-streaming-kafka-0-10_2.11/2.2.2/spark-streaming-kafka-0-10_2.11-2.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/com/yammer/metrics/metrics-core/2.2.0/metrics-core-2.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/org/xerial/snappy/snappy-java/1.1.2.6/snappy-java-1.1.2.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/com/101tec/zkclient/0.8/zkclient-0.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Program Files/scala/lib/scala-actors-2.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Program Files/scala/lib/scala-actors-migration_2.11-1.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Program Files/scala/lib/scala-library.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Program Files/scala/lib/scala-parser-combinators_2.11-1.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Program Files/scala/lib/scala-reflect.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Program Files/scala/lib/scala-swing_2.11-1.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Program Files/scala/lib/scala-xml_2.11-1.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/org/apache/spark/spark-tags_2.11/2.2.2/spark-tags_2.11-2.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/org/apache/kafka/kafka_2.11/0.10.0.1/kafka_2.11-0.10.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/org/scala-lang/scala-library/2.11.5/scala-library-2.11.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/net/jpountz/lz4/lz4/1.3.0/lz4-1.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/org/spark-project/spark/unused/1.0.0/unused-1.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
